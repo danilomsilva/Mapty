@@ -12,9 +12,9 @@ Advanced OOP with JavaScript,DOM manipulation, localStorage API and use of third
 Fork the repository, extract the files and then open: `index.html`.
 
 ### Live preview
-Alternatively, you can visualize the project by clicking in this link: 
+Alternatively, you can visualize the project by clicking on this link: https://danilomsilva-mapty.netlify.app/
 
 ### 👉 Instructions
  - Allow your browser to access your current location
- - Click somewhere in the map to create a mark. 
- - Fill the fields on the left using your 'workout' details.
+ - Click somewhere in the map to create a marker. 
+ - Fill in the fields on the left using your 'workout' details.
