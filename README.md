@@ -12,7 +12,7 @@ Advanced OOP with JavaScript,DOM manipulation, localStorage API and use of third
 Fork the repository, extract the files and then open: `index.html`.
 
 ### Live preview
-Alternatively, you can visualize the project by clicking in this link: https://danilomsilva-bankist.netlify.app/ 
+Alternatively, you can visualize the project by clicking in this link: 
 
 ### 👉 Instructions
  - Allow your browser to access your current location
